@@ -18,6 +18,7 @@ This project analyzes a real-world E-Commerce transactional database using SQL a
 To simulate how a Data Analyst would support leadership teams with data-driven decisions.
 
 This analysis answers key executive-level questions such as:
+
 ->How has revenue grown over the years?
 
 ->Which product categories generate the highest sales?
@@ -37,23 +38,14 @@ This analysis answers key executive-level questions such as:
 
 ->Matplotlib & Seaborn for Business visualizations
 
-# Advanced SQL Concepts:
-->CTEs (WITH clauses)
-
-->Window Functions (LAG, DENSE_RANK, Moving Averages)
-
-->Cumulative calculations
-
-->Ranking & segmentation
-
 # Key Insights Generated
 ->Identified total revenue contribution by product category
 
-->Calculated customer retention rate (18-month return window)
+->Calculated customer retention rate in 18-month windows
 
 ->Measured year-over-year revenue growth
 
-->Ranked sellers by revenue using DENSE_RANK()
+->Ranked sellers by revenue 
 
 ->Computed moving averages of customer spending
 
