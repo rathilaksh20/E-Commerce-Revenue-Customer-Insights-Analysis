@@ -1,6 +1,6 @@
 # E-Commerce-Revenue-Customer-Insights-Analysis
 
-## Project Overview
+# Project Overview
 This project analyzes a real-world E-Commerce transactional database using SQL and Python to uncover business insights related to:
 ->Revenue growth
 ->Customer retention
@@ -9,7 +9,7 @@ This project analyzes a real-world E-Commerce transactional database using SQL a
 ->Year-over-Year growth
 ->Sales trends & forecasting patterns
 
-## Project Objective 
+# Project Objective 
 To simulate how a Data Analyst would support leadership teams with data-driven decisions.
 
 This analysis answers key executive-level questions such as:
@@ -20,18 +20,18 @@ This analysis answers key executive-level questions such as:
 ->How do monthly sales trends behave?
 ->How many customers prefer installment payments?
 
-## Tools & Technologies Used
+# Tools & Technologies Used
 ->MySQL for Data extraction & advanced querying
 ->Python (Pandas, NumPy) for Data processing
 ->Matplotlib & Seaborn for Business visualizations
 
-## Advanced SQL Concepts:
+# Advanced SQL Concepts:
 ->CTEs (WITH clauses)
 ->Window Functions (LAG, DENSE_RANK, Moving Averages)
 ->Cumulative calculations
 ->Ranking & segmentation
 
-## Key Insights Generated
+# Key Insights Generated
 ->Identified total revenue contribution by product category
 ->Calculated customer retention rate (18-month return window)
 ->Measured year-over-year revenue growth
@@ -41,7 +41,7 @@ This analysis answers key executive-level questions such as:
 ->Identified top 3 customers per year
 ->Measured installment-based purchasing behaviour
 
-## Visual Reports(Graphs) Included
+# Visual Reports(Graphs) Included
 
 1. Monthly order distribution charts
 2. Revenue percentage by product category (Pie Chart)
